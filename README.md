@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gohkokhong
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Pega and JavaScript
+- 🌱 I’m currently learning the MERN stack
 - 📫 How to reach me at kokhong.goh@gmail.com
 
 <!---
