@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gohkokhong
 - 👀 I’m interested in software and consumer technologies!
 - 🌱 I’m currently learning the MERN stack
-- 📫 How to reach me at kokhong.goh@gmail.com
+- 📫 Reach me at kokhong.goh@gmail.com
 
 <!---
 gohkokhong/gohkokhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
