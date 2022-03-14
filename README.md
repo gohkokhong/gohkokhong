@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gohkokhong
-- 👀 I’m interested in software and consumer technologies!
-- 🌱 I’m currently learning the MERN stack
+- 👀 I’m interested in technology!
+- 🌱 I’m currently learning Spring Boot!
 - 📫 Reach me at kokhong.goh@gmail.com
 
 <!---
