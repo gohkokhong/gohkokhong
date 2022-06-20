@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gohkokhong
 - 👀 I’m interested in technology!
 - 🌱 I’m trying to master the MERN stack
-- 🌱 I’m also learning .NET
 - 📫 Reach me at kokhong.goh@gmail.com
 
 <!---
