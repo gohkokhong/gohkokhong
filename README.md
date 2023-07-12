@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @gohkokhong
-Business Architecture Senior Analyst skilled in Agile methodologies, automated testing, and application development.
+Skilled in application development and automated testing.
 
 ### 👀 Tech Enthusiast
 Hands-on experience with Java, Pega, Selenium, MERN stack, and Python.
@@ -15,3 +15,6 @@ Efficiency enhancer with a knack for leading initiatives and a strong team playe
 
 ### 📫 Contact Me
 Reach me at kokhong.goh@gmail.com for collaborations and opportunities.
+
+### 🌐 Find me on LinkedIn
+[LinkedIn](https://www.linkedin.com/in/gohkh/)
