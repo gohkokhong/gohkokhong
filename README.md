@@ -1,14 +1,17 @@
-👋 Hi, I’m @gohkokhong, a Business Architecture Senior Analyst with experience in Agile methodologies, automated testing, and application development.
+### 👋 Hi, I’m @gohkokhong
+Business Architecture Senior Analyst skilled in Agile methodologies, automated testing, and application development.
 
-👀 I’m passionate about technology, with hands-on experience in Java, Pega, Selenium, MERN stack, and Python.
+### 👀 Tech Enthusiast
+Hands-on experience with Java, Pega, Selenium, MERN stack, and Python.
 
-🌱 Currently mastering the MERN stack and exploring emerging technologies. I've used MERN in projects involving machine learning pipelines and interactive data visualisation.
+### 🌱 Learning & Development
+Mastering the MERN stack with projects involving machine learning pipelines and interactive data visualisation.
 
-🔭 My projects include web apps, automated testing tools, and production features using Pega. I've also developed a CCA Management System using Vue.JS and Firebase, and proposed a revamped design for the Shopee app.
+### 🔭 Projects
+Developed web apps, automated testing tools, and production features using Pega. Created a CCA Management System with Vue.JS and Firebase.
 
-🤝 I'm a team player with a track record of leading initiatives to enhance efficiency and user experience.
+### 🤝 Teamwork & Leadership
+Efficiency enhancer with a knack for leading initiatives and a strong team player.
 
-📫 Reach me at kokhong.goh@gmail.com for new opportunities and collaborations.
-
----
-@gohkokhong: Business Architecture Senior Analyst | Tech Enthusiast | Agile & Automated Testing Expert | MERN Stack Developer
+### 📫 Contact Me
+Reach me at kokhong.goh@gmail.com for collaborations and opportunities.
